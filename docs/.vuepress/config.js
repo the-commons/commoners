@@ -6,6 +6,8 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'News', link: '/news' },
       { text: 'Upcoming Events', link: '/events' },
+      { text: 'Body Corp', link: '/body-corp' },
+      { text: 'OCC', link: '/occ' },
     ]
   }
 }
